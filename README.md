@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&height=70&lines=Hi%2C+I'm+Ahmet+Can+Bozkurt;Robotics+%26+Defense+Systems+Engineer;Building+Autonomous+Future;C%2B%2B+%7C+Python+%7C+Embedded+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&height=70&lines=Hi%2C+I'm+Ahmet+Can+Bozkurt;Information+Systems+%26+Technologies;Building+Autonomous+Future;C%2B%2B+%7C+Python+%7C+Embedded+AI" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=800" />
 
@@ -20,7 +20,7 @@
 
 ### 🚀 Mission Status: Active
 
-I am a **Computer Engineering Student** and **Defense Industry Intern** passionate about creating intelligent machines that operate in critical environments.
+I am an **Information Systems and Technologies Student** and **Defense Industry Intern** passionate about creating intelligent machines that operate in critical environments.
 
 **Current Focus:**
 * 🔭 Developing **Autonomous Ground Vehicles (UGV)**
