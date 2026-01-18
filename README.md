@@ -51,11 +51,11 @@ I am a **Computer Engineering Student** and **Defense Industry Intern** passiona
 
 ---
 
-### 🏆 Achievements & Certifications
+### 🏆 Achievements
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ahmetcann66&theme=git-dimmed&no-frame=true&margin-w=15&row=1&column=7" alt="ahmetcann66 trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmetcann66&theme=radical&no-frame=true&margin-w=15" alt="ahmetcann66 trophies" />
   </a>
 </div>
 
