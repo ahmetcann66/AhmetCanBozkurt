@@ -51,12 +51,10 @@ I am a **Computer Engineering Student** and **Defense Industry Intern** passiona
 
 ---
 
-### 🏆 Achievements
+### 🔥 GitHub Activity Streak
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ahmetcann66&theme=radical&no-frame=true&margin-w=15" alt="ahmetcann66 trophies" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetcann66&theme=tokyonight&hide_border=true&fire=FF6C37&ring=00D1FF&currStreakLabel=00D1FF" alt="GitHub Streak" />
 </div>
 
 ---
