@@ -1,112 +1,93 @@
+<!-- ========================================================= -->
+<!--        INTELLIGENCE & AUTONOMOUS SYSTEMS REPORT 2026      -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=900&color=00D1FF&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Ahmet+Can+Bozkurt;Information+Systems+%26+Technologies+Student;Autonomous+Defense+Systems+%26+Robotics;C+%7C+C%2B%2B+%7C+Python+%7C+Embedded+AI" />
+<h1>🛰️ Intelligence & Autonomous Systems Report — 2026</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=900" />
+<p><em>Operational Focus: UAV Control • Computer Vision • Embedded Intelligence</em></p>
 
-### 🛡️ Autonomous Defense Systems & Robotics
-*Engineering reliable autonomy for critical environments.*
-
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmetcanbozkurt295@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmetcann66)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=820&lines=Autonomous+Systems+Engineer;UAV+Control+Software+in+C;Defense-Oriented+Computer+Vision;Embedded+and+Real-Time+Intelligence" />
 
 </div>
 
 ---
 
-## 🚀 Mission Status: Active
+## 🧠 Executive Intelligence Summary
 
-**Bilişim Sistemleri ve Teknolojileri – 3. Sınıf**  
-**Atatürk Üniversitesi**
+- 🎓 **3rd Year Student** — *Information Systems & Technologies*
+- 🏛️ **Atatürk University**
+- 🏢 **Defense Industry Internship** — *Mıssoft / Depron Group*
+- 👁️ **Assigned Unit**: *Computer Vision & Perception Systems*
+- 🛩️ **Current Operation**: *UAV Control System Development (C)*
 
-**MİSSOFT**  
-**Depron Grubu – Görüntü İşleme**
-
-Savunma ve otonom sistemlerde **gerçek zamanlı algı (perception)**,  
-**İHA kontrol yazılımı**, **gömülü sistemler** ve **sensor fusion** üzerine çalışıyorum.
-
-### 🎯 Current Focus
-- ✈️ **İHA / UAV Kontrol Sistemleri** – flight logic, PID, telemetry (**C**)
-- 👁️ **Görüntü İşleme** – hedef tespiti & takip (OpenCV, YOLO)
-- 🔭 **Otonom Kara Araçları (UGV)**
-- 🧠 **Sensor Fusion** – Kalman / EKF (C++)
-- ⚡ **Gömülü Sistemler** – bare-metal, zamanlama, interrupt
-
-> *“Autonomy isn’t the future — it’s the requirement.”*
+> This profile represents a **defense-focused engineering mindset**  
+> combining **low-level embedded control**, **autonomous decision logic**,  
+> and **real-time perception systems**.
 
 ---
 
-## 🛠️ Teknoloji Cephaneliği
+## 🎯 Active Mission Domains — 2026
 
-### 💻 Programlama Dilleri
 <div align="center">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div>
 
-### ⚙️ Gömülü Sistemler & Donanım
-<div align="center">
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/ESP32%20%2F%208266-000000?style=for-the-badge&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-</div>
+| Domain | Status | Description |
+|------|------|-------------|
+| 🛩️ UAV Control Systems | 🟢 Active | Low-level C, control loops |
+| 👁️ Computer Vision | 🟢 Active | OpenCV, detection pipelines |
+| 🤖 Autonomous Robotics | 🟢 Active | Motion & gait control |
+| 🧠 Sensor Fusion | 🟡 Developing | Multi-sensor awareness |
+| 🛡️ Defense Software | 🟢 Active | Simulation & field logic |
 
-### 🤖 Robotik, Görüntü İşleme & Otonomi
-<div align="center">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-<img src="https://img.shields.io/badge/Sensor%20Fusion-FF6C37?style=for-the-badge" />
-</div>
-
-### 🧠 Sistem & Geliştirme Ortamı
-<div align="center">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Embedded%20AI-0A66C2?style=for-the-badge" />
 </div>
 
 ---
 
-## 🔥 Coding Streak
+## 🛠️ Technology Arsenal
 
+### 💻 Programming Languages
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetcann66&theme=tokyonight&hide_border=true&fire=FF6C37&ring=00D1FF&currStreakLabel=00D1FF" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
 ---
 
-## 📡 Declassified Projects
-
-| Project | Tech | Description |
-|------|------|------------|
-| 🛡️ **Sentinel-Fusion-Sim** | C++ · OpenCV · Kalman | Multi-sensor fusion & target tracking |
-| ✈️ **UAV Flight Control Core** | C · PID · Telemetry | Düşük seviye İHA kontrol & failsafe |
-| 🕷️ **Quadruped Spider Robot** | Arduino · IK · PCA9685 | 4 ayaklı otonom robot |
-| 🚜 **Autonomous UGV** | Python · YOLO · GPS | Yangın tespiti ve navigasyon |
-| 🎯 **Laser Targeting System** | Embedded C · Servo | Otomatik hedefleme |
-
----
-
-## 📊 Intelligence Report
-
+### ⚙️ Embedded & Control Systems
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ahmetcann66&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcann66&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/PCA9685-FF6C37?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Real--Time%20Control-111827?style=for-the-badge"/>
 </div>
 
 ---
 
+### 👁️ Computer Vision & Autonomy
 <div align="center">
-<img src="https://raw.githubusercontent.com/ahmetcann66/ahmetcann66/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Object%20Detection-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Autonomous%20Perception-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sensor%20Fusion-F97316?style=for-the-badge"/>
 </div>
 
+---
+
+### 🧠 Development Environment
 <div align="center">
-<img src="https://raw.githubusercontent.com/ahmetcann66/ahmetcann66/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embedded%20AI-0A66C2?style=for-the-badge"/>
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=100&section=footer"/>
-</div>
+---
+
+## 🔍 Operational Doctrine
+
+```text
+• Low-level control before abstraction
+• Hardware-aware software design
+• Defense-grade reliability mindset
+• Systems must survive real-world conditions
